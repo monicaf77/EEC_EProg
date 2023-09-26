@@ -5,4 +5,5 @@ Neste repositório encontra os guias para os trabalhos laboratoriais da diciplin
 
 * Lab0 - Guia para instalação e configuração do software Vivado ML (lab0.ipynb)
 * Lab1 - Guia de introdução ao Vivado ML e à programação da Basys3 com um circuito simples (lab1.ipynb)
+* Lab2 - Guia de implementação de circuitos combinacionais ao nível RTL (lab2.ipynb)
 * repositório em construção
